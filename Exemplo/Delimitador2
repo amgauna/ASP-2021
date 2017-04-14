@@ -1,0 +1,8 @@
+<html>
+<body>
+Data e hora:
+<script runat="server">
+Response.Write Now()
+</script>
+</body>
+</html>
